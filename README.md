@@ -21,7 +21,7 @@ social consciousness.
 
 Objective:
 ---------
-Transorm governement into an executive and use the people opinion as the decision maker
+Transform governement into an executive and use the people opinion as the decision maker
 
 
 
@@ -29,9 +29,9 @@ Motivations:
 ------------
 
 The actual system is not taking into account the evolution of the technology and its
-population true concerns
+population's true concerns.
 
-**More precisely** we are asked to give our opinion only once in a few time to put
+**More precisely** we are asked to give our opinion only once in a few times to put
 people who should represent us and then takes decisions without really asking after.
 
 
@@ -39,13 +39,13 @@ people who should represent us and then takes decisions without really asking af
 Proposed Solution
 -----------------
 
-G.O.D. main purpose it's to be able to get everybody's issue and let the government, our
+G.O.D.'s main purpose is to be able to get everybody's issue and let the government, our
 executives, take **Informed** actions. For the time being this might evolve to something
 other than weblog, social network or forum.
 
 This is meant to become non-centralized. Cities could start their polling sessions
-by themselves, results grids will be populated. Moderator will populate and collect
-the questions and the suggestions.
+by themselves, results grids will be populated. Moderators will populate and collect
+the questions and suggestions.
 
 Quoting occupymontreal.tk "We are students, workers, unemployed, families, young,
 retired, public service employees, lawyers, nurses, grand-parents, security guards,
@@ -71,12 +71,12 @@ TODO
 How this will work? Technically - Overview
 ------------------------------------------
 
-This is the first iteration, so don't expect too much about it.
+This is the first iteration, so don't expect too much from it.
 
 Since the whole idea is to take action and propose viable solutions to real society problems we thought that, basically:
 
-* The application will ask questions and suggests two solutions, voter choose his favorite.
-* The application calculate the most favorite solution.
+* The application will ask questions and suggest two solutions, voter chooses her favorite.
+* The application calculates the most favorite solution.
 
 If you want to propose new solutions, the forum at http://godproject.devlabmtl.org/discussions/ will take
 your suggestions, people can add comments and at some point, moderators could modify
@@ -87,12 +87,12 @@ questions from the forum.
 Contribute
 ----------
 
-This project is done by passionate people who happens to be web developers. We
+This project is done by passionate people who happen to be web developers. We
 use open-source software to build a tool to get people's opinion on issues
-that matters to them.
+that matter to them.
 
-**devLAB Montreal** is the initiator group and we welcome any web developer who want
-to contribute we, at devLAB Montréal, will take care of the hosting and the code base.
+**devLAB Montreal** is the initiator group and we welcome any web developer who wants
+to contribute. We, at devLAB Montréal, will take care of the hosting and the code base.
 
 Official version is hosted on http://godproject.devlabmtl.org/, we take care of the deployment
 and scaling issues whenever they come.
